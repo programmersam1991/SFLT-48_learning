@@ -43,10 +43,7 @@
 
 ### Решение задания 1
 
-
-[HAProxi.cfg] (https://drive.google.com/file/d/1t5bFafORSSJbYgjqHe8bsiafzVIBEQ2F/view)
-
-
+[HAProxi.cfg](https://drive.google.com/file/d/1t5bFafORSSJbYgjqHe8bsiafzVIBEQ2F/view)
 
 ### Задание 2
 - Запустите три simple python сервера на своей виртуальной машине на разных портах
@@ -57,7 +54,10 @@
 ### Решение задания 2
 
 [HaProxy.cfg](https://drive.google.com/file/d/17a_LpFqVrX14q9wR6ls79LWJMEVIP5yi/view)
----
+
+
+
+
 
 ## Задания со звёздочкой*
 Эти задания дополнительные. Их можно не выполнять. На зачёт это не повлияет. Вы можете их выполнить, если хотите глубже разобраться в материале.
