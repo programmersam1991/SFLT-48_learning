@@ -43,7 +43,7 @@
 
 ### Решение задания 1
 
-
+![image]()
 
 [HAProxi.cfg](https://drive.google.com/file/d/1t5bFafORSSJbYgjqHe8bsiafzVIBEQ2F/view)
 
