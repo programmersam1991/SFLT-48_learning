@@ -43,6 +43,8 @@
 
 ### Решение задания 1
 
+
+
 [HAProxi.cfg](https://drive.google.com/file/d/1t5bFafORSSJbYgjqHe8bsiafzVIBEQ2F/view)
 
 ### Задание 2
