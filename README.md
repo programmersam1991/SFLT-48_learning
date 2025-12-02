@@ -43,7 +43,7 @@
 
 ### Решение задания 1
 
-![image]()
+![image](https://github.com/programmersam1991/SFLT-48_learning/blob/main/02%20(1).png?raw=true)
 
 [HAProxi.cfg](https://drive.google.com/file/d/1t5bFafORSSJbYgjqHe8bsiafzVIBEQ2F/view)
 
